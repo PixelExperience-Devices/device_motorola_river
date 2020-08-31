@@ -37,4 +37,4 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
         PRIVATE_BUILD_DESC="river-user 9 PPOS29.114-134-4 fe214 release-keys"
 
 # Set BUILD_FINGERPRINT variable to be picked up by both system and vendor build.prop
-BUILD_FINGERPRINT := motorola/river/river:9/PPOS29.114-134-4/fe214:user/release-keys
+BUILD_FINGERPRINT := google/coral/coral:10/QQ3A.200805.001/6578210:user/release-keys
