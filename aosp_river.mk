@@ -34,4 +34,4 @@ PRODUCT_MODEL := moto g(7)
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
         PRODUCT_NAME=river \
-        PRIVATE_BUILD_DESC="river-user 9 PPOS29.114-134-4 fe214 release-keys"
+        PRIVATE_BUILD_DESC="river_retail-user 10 QPUS30.52-33-11 df129 release-keys"
