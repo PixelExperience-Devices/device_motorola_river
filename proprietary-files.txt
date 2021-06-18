@@ -293,9 +293,6 @@ vendor/lib64/vendor.egistec.hardware.fingerprint@2.0.so
 vendor/lib64/libets_fp_et5.so
 vendor/lib64/libets_teeclient.so
 
-# Google Camera
--system/priv-app/CameraGo/CameraGo.apk;PRESIGNED
-
 # NFC
 vendor/lib64/libpn553_fw.so
 
